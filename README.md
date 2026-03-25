@@ -10,7 +10,7 @@ Language: Python
 ### Libraries: 
 pandas, numpy (Data handling), seaborn, matplotlib (Visualization), scikit-learn (Machine Learning), xgboost
 
-Environment: Jupyter Notebook 
+### Environment: Jupyter Notebook 
 
 ### 📊 Workflow
 Exploratory Data Analysis (EDA): Identifying correlations between features (e.g., "Women and children first").
